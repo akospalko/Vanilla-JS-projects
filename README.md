@@ -6,5 +6,6 @@ The following projects were created within the Zero To Mastery Udemy course [Jav
 ## Content
 * [Basic calculator](https://github.com/akospalko/basic-calculator)
 * [Form validation](https://github.com/akospalko/form-validation)
+* [Bookmark manager](https://github.com/akospalko/bookmark-manager.git)
 
 [Back to the projects](#projects)
